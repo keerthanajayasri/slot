@@ -157,9 +157,8 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![Output](<Screenshot (2).png>)
+![Output]!(<Screenshot 2023-10-26 090829.png>)
 
-## HTML VALIDATOR
 
 
 ## RESULT
